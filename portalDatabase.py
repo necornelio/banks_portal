@@ -8,7 +8,7 @@ class Database():
                  port="3306",
                  database="banks_portal",
                  user='root',
-                 password='Ned390617*'):
+                 password='********'):
 
         self.host       = host
         self.port       = port
